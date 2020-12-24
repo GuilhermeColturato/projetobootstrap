@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background-color: #ffffff;
+}
+#titulo h1 {
+    line-height: 0px;
+	font-family: Consolas;
+}
+#imagem {
+    position: fixed;
+    width: 30%
+}
+
+ ul {
+     list-style-type:none;
+     padding-left: 0px;
+ }
+
+img {
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+}
+
+span {
+    color: #515151;
+}
+
+h2 {
+    line-height: 0px;
+}
+
+#linkedin {
+    height: 2em;
+    width: 2em;
+}
+
+.header {
+    padding: 10px 5em 10px 31%
+}
